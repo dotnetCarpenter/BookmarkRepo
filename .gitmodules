@@ -1,0 +1,24 @@
+[submodule "galleria"]
+	path = galleria
+	url = git://github.com/aino/galleria.git
+[submodule "SilkJS"]
+	path = SilkJS
+	url = git://github.com/mschwartz/SilkJS.git
+[submodule "documentjs"]
+	path = documentjs
+	url = git://github.com/jupiterjs/documentjs.git
+[submodule "calipso"]
+	path = calipso
+	url = git://github.com/cliftonc/calipso.git
+[submodule "uki"]
+	path = uki
+	url = git://github.com/voloko/uki.git
+[submodule "Activable"]
+	path = Activable
+	url = git://github.com/louisremi/Activable.git
+[submodule "masonry"]
+	path = masonry
+	url = git://github.com/desandro/masonry.git
+[submodule "node-prettydate"]
+	path = node-prettydate
+	url = git://github.com/bluesmoon/node-prettydate.git
