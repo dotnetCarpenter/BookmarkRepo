@@ -22,3 +22,15 @@
 [submodule "node-prettydate"]
 	path = node-prettydate
 	url = git://github.com/bluesmoon/node-prettydate.git
+[submodule "Xb"]
+	path = Xb
+	url = git://github.com/fernandezpablo85/Xb.git
+[submodule "microtemplatez"]
+	path = microtemplatez
+	url = git://github.com/addyosmani/microtemplatez.git
+[submodule "quicksand"]
+	path = quicksand
+	url = git://github.com/razorjack/quicksand.git
+[submodule "timeapi"]
+	path = timeapi
+	url = git://github.com/progrium/timeapi.git
