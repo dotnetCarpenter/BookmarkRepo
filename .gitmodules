@@ -34,3 +34,6 @@
 [submodule "timeapi"]
 	path = timeapi
 	url = git://github.com/progrium/timeapi.git
+[submodule "TiCarousel"]
+	path = TiCarousel
+	url = git://github.com/marconealberto/TiCarousel.git
